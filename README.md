@@ -42,6 +42,11 @@
     <td class="tg-0lax">2025.06 ~ 2025.08</td>
     <td class="tg-baqh">Backend 인턴 개발자</td>
   </tr>
+  <tr>
+    <td class="tg-baqh">LET'S SOPT 38th</td>
+    <td class="tg-0lax">2026.03 ~ 2026.07</td>
+    <td class="tg-baqh">대학생 연합 IT 벤처 창업 동아리 SOPT 38기 Server 파트원</td>
+  </tr>
 </tbody>
 </table>
 </div>
