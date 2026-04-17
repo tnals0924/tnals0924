@@ -106,10 +106,10 @@
     </div>
     <br/>
      <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎖️ Awards </h2> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎖️ Certificate </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
     </div>
-<d>🥉 2024 WINK X The Compass 해커톤 장려상</d>
+<d>SQLD (한국데이터산업진흥원 / 2023.12.15.)</d>
 <br/>
 <br/>
 <div align= "center">
