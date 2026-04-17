@@ -153,7 +153,7 @@
 <div align= "center">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
 <div align= "center">
-     <a href=https://www.instagram.com/tnals0924> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/h_s_min_01"> </a>
+     <a href=https://www.instagram.com/h_s_min_01> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/h_s_min_01"> </a>
       </div>  <br> 
  <div align= "center">
      <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Ftnals0924?color=yellow&label=hits&size=small" alt="hits" /></a>
