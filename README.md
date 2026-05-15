@@ -101,6 +101,10 @@
     <td class="tg-0lax">2025.06 ~ 2025.11 </td>
     <td class="tg-0lax">[2025 D&X:W Conference] 중학생을 위한 AI 수학 학습 도우미, '<a href="https://github.com/D-X-W-Service-4/soup-server">SOUP</a>' 팀장 & BE 개발</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">2025.12 ~ 2026.05 </td>
+    <td class="tg-0lax">[2026 국민대학교 캡스톤디자인 프로젝트] 기획 문서 통합 관리 보조 도구, '<a href="https://github.com/kookmin-sw/2026-capstone-09">flowMeet</a>' 팀장 & BE 개발</td>
+  </tr>
 </tbody>
 </table>
     </div>
