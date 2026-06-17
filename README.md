@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td class="tg-baqh">서울대학교병원 융합의학기술원 BMI-LAB</td>
-    <td class="tg-0lax">2025.01 ~ 2026.03</td>
+    <td class="tg-0lax">2025.01 ~ 2026.05</td>
     <td class="tg-baqh">Backend 학부생 인턴</td>
   </tr>
   <tr>
