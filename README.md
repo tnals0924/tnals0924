@@ -105,6 +105,10 @@
     <td class="tg-0lax">2025.12 ~ 2026.05 </td>
     <td class="tg-0lax">[2026 국민대학교 캡스톤디자인 프로젝트] 기획 문서 통합 관리 보조 도구, '<a href="https://github.com/kookmin-sw/2026-capstone-09">flowMeet</a>' 팀장 & BE 개발</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">2026.06 ~  </td>
+    <td class="tg-0lax">[LET'S SOPT APPJAM] 동네마트의 치명적인 소식을 미리 받아보는 온라인 전단 서비스, '<a href="https://github.com/TEAM-DONGCHIMI/DONGCHIMI-SERVER">동치미</a>' BE 리드</td>
+  </tr>
 </tbody>
 </table>
     </div>
