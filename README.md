@@ -47,6 +47,11 @@
     <td class="tg-0lax">2026.03 ~ 2026.07</td>
     <td class="tg-baqh">대학생 연합 IT 벤처 창업 동아리 SOPT 38기 Server 파트원</td>
   </tr>
+  <tr>
+    <td class="tg-baqh">SOPT Makers 39th</td>
+    <td class="tg-0lax">2026.08 ~ </td>
+    <td class="tg-baqh">SOPT 메이커스 BE 챕터</td>
+  </tr>
 </tbody>
 </table>
 </div>
